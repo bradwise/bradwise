@@ -1,4 +1,4 @@
-## Hi there 👋
+## Brad Wise
 
 <!--
 **bradwise/bradwise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
