@@ -1,6 +1,5 @@
-# Brad Wise
-
-## Github Profile
+# Github Profile: Brad Wise, San Diego CA
+![Brad Wise](Images/Brad_Wise_Infograph.png)
 
 <!--
 **bradwise/bradwise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning [Google AI Tools](Documents/Google_AI_Tools.md)
