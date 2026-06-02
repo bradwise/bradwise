@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning [Continued Learning](continued_learning.html)
 - 🌱 I’m currently learning [Google AI Tools](Documents/Google_AI_Tools.md)
