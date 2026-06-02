@@ -1,0 +1,27 @@
+:root {
+  --executive-grid-line: rgba(11, 62, 110, 0.045);
+}
+
+body {
+  margin: 0;
+}
+
+.executive-grid {
+  background-image:
+    linear-gradient(var(--executive-grid-line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--executive-grid-line) 1px, transparent 1px);
+  background-position: center;
+  background-size: 36px 36px;
+}
+
+.dual-arc {
+  background:
+    radial-gradient(circle at left top, rgba(50, 172, 187, 0.18), transparent 48%),
+    radial-gradient(circle at right top, rgba(250, 177, 43, 0.18), transparent 52%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.95), rgba(241, 252, 252, 0.88));
+}
+
+::selection {
+  background: rgba(50, 172, 187, 0.22);
+  color: #08294a;
+}
