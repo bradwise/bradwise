@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning [Continued Learning](https://bradwise.github.io/bradwise/continued_learning.html)
-- 📚 Browse my [Documents Overview](https://bradwise.github.io/bradwise/continued_learning.html/documents_overview.html)
+- 📚 Browse my [Documents Overview](https://bradwise.github.io/bradwise/continued_learning.html/documents/documents_overview.html)
 - 🌱 Browse [Google AI Tools](Documents/Google_AI_Tools.md)
