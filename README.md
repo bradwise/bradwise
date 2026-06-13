@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning [Continued Learning](continued_learning.html)
-- 📚 Browse my [Documents Overview](Documents/documents_overview.html)
-- 🌱 I’m currently learning [Google AI Tools](Documents/Google_AI_Tools.md)
+- 🌱 I’m currently learning [Continued Learning](https://bradwise.github.io/bradwise/continued_learning.html)
+- 📚 Browse my [Documents Overview](https://bradwise.github.io/bradwise/continued_learning.html/documents_overview.html)
+- 🌱 Browse [Google AI Tools](Documents/Google_AI_Tools.md)
