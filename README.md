@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning [Continued Learning](continued_learning.html)
+- 📚 Browse my [Documents Overview](Documents/documents_overview.html)
 - 🌱 I’m currently learning [Google AI Tools](Documents/Google_AI_Tools.md)
